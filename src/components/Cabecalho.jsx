@@ -6,23 +6,15 @@ export default function Cabecalho() {
     <>
       <header>
         <h1>Vite + React / Coded By - RM552422</h1>
-        <h2>teste</h2>
+        <h2>Teste</h2>
         <ul>
           <li>
-           <Link to="/">HOME - <H/></Link>
+            <Link to="/">HOME - <H/></Link>
           </li>
           <li>
-          <Link to="/produtos">PRODUTOS</Link>
+            <Link to="/produtos">PRODUTOS</Link>
           </li>
-          <li>
-          <Link to="/editar/produtos/1">PRODUTO - 1</Link>
-          </li>
-          <li>
-          <Link to="/editar/produtos/2">PRODUTO - 2</Link>
-          </li>
-          <li>
-          <Link to="/editar/produtos/3">PRODUTO - 3</Link>
-          </li>
+
         </ul>
       </header>
     </>
