@@ -7,9 +7,6 @@ import style from "./Produtos.module.css";
 export default function Produtos() {
   document.title = "Produtos";
 
-
-
-
   return ( 
     <div>
       <h1>LISTA DE PRODUTOS</h1>
